@@ -1,4 +1,3 @@
-#haleemadev
 
 Hi! I'm Haleema from Lahore, Pakistan. I'm currently exploring computer science, math, and physics, and learning how technology can be used to solve real-world problems. I'm building my skills one project at a time.
 
